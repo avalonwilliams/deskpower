@@ -10,8 +10,8 @@ setup(
     description="UPower event listener for shell scripting",
     long_description=read("README.md"),
     license="GPLv3+",
-    author="Aidan Williams",
-    author_email="aidanwillie0317@protonmail.com",
+    author="Avalon Williams",
+    author_email="avalonwilliams@protonmail.com",
     packages=["deskpower"],
     install_requires=["pydbus", "pygobject"],
     classifiers=[
