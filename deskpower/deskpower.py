@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Deskpower - simple way to script upower events
 
-# Copyright (C) 2019 Aidan Williams
+# Copyright (C) 2022 Avalon Williams
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
